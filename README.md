@@ -95,3 +95,11 @@ Time series forecasting have attracted a great deal of attention from various re
 
 - The given dataset contains 6445 IDs from ID 1000 to ID 7444. The dataset provide daily electricity usage from July 14, 2009 to December 31, 2010.The costumers are not only from housing but also companies.
 - Achieved 80-90% accuracy over all the clusters.
+
+# Project 4: Whatsapp chat EDA
+[Github repo](https://github.com/King-Zach/whatsapp-chat-analysis)
+![whatappchatanalyzer](files/whatsapp-chat.png)
+* Analyze summaries of WhatsApp chats with individuals or groups.
+* No data is stored or sent outside your system of execution. All chat data is deleted from memory once the insights are generated. Jupyter notebooks are used so that the code generating the summaries can be viewed by the skeptical user.
+* various insights can be drawn from these individual chats and look up metrics such as response time, text density, number of emojis, etc.
+* have provided good visualizations using `plotly`

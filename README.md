@@ -98,6 +98,7 @@ Time series forecasting have attracted a great deal of attention from various re
 
 # Project 4: Whatsapp chat EDA
 [Github repo](https://github.com/King-Zach/whatsapp-chat-analysis)
+
 ![whatappchatanalyzer](files/whatsapp-chat.png)
 * Analyze summaries of WhatsApp chats with individuals or groups.
 * No data is stored or sent outside your system of execution. All chat data is deleted from memory once the insights are generated. Jupyter notebooks are used so that the code generating the summaries can be viewed by the skeptical user.

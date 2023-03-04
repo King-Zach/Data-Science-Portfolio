@@ -84,3 +84,14 @@ dense_1 (Dense)              (None, 31)                3999
 =================================================================
 
 ```
+# Project 3: Time series clustering and forecasting
+[Github repo](https://github.com/King-Zach/clustering-and-forecasting)
+
+Time series forecasting have attracted a great deal of attention from various research communities. One of the method which improves accuracy of forecasting is time series clustering.
+![forecast](files/probabilistic-forecasting-graph.png)
+
+- Problem : We are given daily electricity usage data of customers from various residential houses as well as commercial usage and we need to forecast daily usage of each customer
+- Here we are leveraging clustering since there are many customers and training a model for each is not scalable and efficient. For forecasting we are using fbprophet
+
+- The given dataset contains 6445 IDs from ID 1000 to ID 7444. The dataset provide daily electricity usage from July 14, 2009 to December 31, 2010.The costumers are not only from housing but also companies.
+- Achieved 80-90% accuracy over all the clusters.
